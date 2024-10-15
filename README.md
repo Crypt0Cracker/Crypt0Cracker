@@ -2,7 +2,7 @@
 
 ![Profile Banner](Banner.jpg)
 
-Welcome to my GitHub! I’m Friederik Fedinand, a passionate cyber security enthusiast with expertise in *Kali Linux*, **Burp Suite, and *Nmap*. I’m always exploring new tools and techniques to keep networks secure and to find vulnerabilities before they can be exploited.
+Welcome to my GitHub! I’m Friederik Fedinand, a passionate cyber security enthusiast with expertise in *Kali Linux*, *Burp Suite*, and *Nmap*. I’m always exploring new tools and techniques to keep networks secure and to find vulnerabilities before they can be exploited.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -34,14 +34,14 @@ A collection of scripts and tools for penetration testing and network reconnaiss
 
 ### 🌐 [Web App Security Labs](https://github.com/PixelPirate/web-app-security-labs)
 A series of challenges and labs I built for learning and practicing *web application security*. Dive in and explore:
-- Common vulnerabilities like *SQL Injection, **XSS, and **CSRF*.
+- Common vulnerabilities like *SQL Injection*, *XSS*, and *CSRF*.
 - Hands-on guides for using *Burp Suite* to find and exploit these vulnerabilities.
 - Step-by-step tutorials for using *Nmap* to uncover server misconfigurations.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📈 My GitHub Stats
-![Crypt0Cracker's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Crypt0Cracker&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=Crypt0Cracker&show_icons=true&theme=radical)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Crypt0Cracker&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Crypt0Cracker&theme=dracula&hide_border=false)
 
