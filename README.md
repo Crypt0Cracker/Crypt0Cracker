@@ -1,6 +1,6 @@
 # 👾 Ferdii - Cyber Security Enthusiast
 
-![Profile Banner](Banner.png)
+![Profile Banner](Banner.jpg)
 
 Welcome to my GitHub! I’m *Crypt0Cracker, a passionate cyber security enthusiast with expertise in *Kali Linux*, **Burp Suite, and *Nmap*. I’m always exploring new tools and techniques to keep networks secure and to find vulnerabilities before they can be exploited.
 
