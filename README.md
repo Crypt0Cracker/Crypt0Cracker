@@ -2,7 +2,7 @@
 
 ![Profile Banner](Banner.jpg)
 
-Welcome to my GitHub! I’m *Crypt0Cracker, a passionate cyber security enthusiast with expertise in *Kali Linux*, **Burp Suite, and *Nmap*. I’m always exploring new tools and techniques to keep networks secure and to find vulnerabilities before they can be exploited.
+Welcome to my GitHub! I’m Friederik Fedinand, a passionate cyber security enthusiast with expertise in *Kali Linux*, **Burp Suite, and *Nmap*. I’m always exploring new tools and techniques to keep networks secure and to find vulnerabilities before they can be exploited.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
